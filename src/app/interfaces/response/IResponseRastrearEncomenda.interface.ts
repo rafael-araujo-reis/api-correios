@@ -1,4 +1,4 @@
-export interface IResponseRastreamentoCorreios {
+export interface IResponseRastrearEncomenda {
   codObjeto: string;
   eventos: IEventos[];
   modalidade: string;
